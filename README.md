@@ -5,7 +5,7 @@
 Create a venv and install pelican into it:
 ```shell
 python3 -m venv venv # on Windows use python instead of python3
-source venv/bin/activate.sh # on Windows with Powershell, run 'venv\Scripts\activate.ps1'
+source venv/bin/activate.sh # on Windows with Powershell, run 'venv\Scripts\Activate.ps1'
 pip install -r requirements.txt
 ```
 

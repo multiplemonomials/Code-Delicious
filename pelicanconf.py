@@ -1,5 +1,6 @@
 AUTHOR = 'Jamie Smith'
-SITENAME = 'Code Delicious: An Open-Source Plant Based Cookbook'
+SITENAME = 'Code Delicious'
+TAGLINE = 'An Open-Source Plant Based Cookbook'
 SITEURL = ""
 
 PATH = "content"

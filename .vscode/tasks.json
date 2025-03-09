@@ -1,0 +1,53 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+        {
+            "label": "Build and Watch Site",
+            "type": "shell",
+            "command": "${command:python.interpreterPath}",
+            "args": ["-m", "pelican", "-r"],
+            "isBackground": true,
+			"problemMatcher": [
+				{
+					"pattern": [
+						{
+							"regexp": "] ERROR + Skipping ([^ ]+): (.+)",
+							"file": 1,
+							"location": 3,
+							"message": 2
+						}
+					],
+					"background": {
+						"activeOnStart": true,
+						"beginsPattern": ".*",
+						"endsPattern": ".*",
+					}
+				}
+			],
+        },
+        {
+            "label": "Serve Site",
+            "type": "shell",
+            "command": "${command:python.interpreterPath}",
+            "args": ["-m", "pelican", "-l"],
+            "isBackground": true,
+			"problemMatcher": [
+				{
+					"pattern": [
+						{
+							"regexp": "________________",
+							"file": 1,
+							"location": 2,
+							"message": 3
+						}
+					],
+					"background": {
+						"activeOnStart": true,
+						"beginsPattern": ".*",
+						"endsPattern": ".*",
+					}
+				}
+			],
+        }
+    ]
+}

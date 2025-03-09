@@ -4,9 +4,9 @@ Category: Recipes
 
 ![Veggie Potage Ramen Picture](images/Veggie Potage Ramen.jpg){: .image-process-article-image}
 
-Lots of people have had the standard ramen flavors, such as miso and shoyu broth.  But have you had veggie potage?  This is a novel type of ramen which has sweet potatos and other veggies mixed into the broth. Its flavor is unique, and contains both the savory taste of shoyu and the creaminess of veggie stew. It's a whole new perspective on ramen that brings in a fillingness that other types of ramen lack.
+Lots of people have had the standard ramen flavors, such as miso and shoyu broth.  But have you had veggie potage?  This is a novel type of ramen which has sweet potatoes and other veggies blended into the broth. Its flavor is unique, and contains both the savory taste of shoyu (soy sauce) and the creaminess of veggie stew. I find it to be a whole new perspective on ramen that brings in a fillingness that other types of ramen lack.
 
-While veggie potage is well known in Japan, it seems virtually unknown internationally.  To my knowledge, this is the first publically available English recipe for it, which I hand-translated myself after having storebought veggie potage and falling in love with it.
+While veggie potage is well known in Japan, it seems virtually unknown internationally.  To my knowledge, this is the first publicly available English recipe for it, which I hand-translated myself after having storebought veggie potage and falling in love with it.
 
 Original source: [https://cookpad.com/recipe/2130722](https://cookpad.com/recipe/2130722) (in Japanese) by susu58
 

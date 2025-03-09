@@ -1,7 +1,7 @@
 AUTHOR = 'Jamie Smith'
 SITENAME = 'Code Delicious'
 TAGLINE = 'An Open-Source Plant Based Cookbook'
-SITEURL = ""
+SITEURL = "https://multiplemonomials.github.io/Code-Delicious/"
 
 PATH = "content"
 
@@ -43,3 +43,5 @@ IMAGE_PROCESS = {
         "ops": ["scale_in 600 600 True"],
     },
 }
+
+THEME = "pelican-svbhack"

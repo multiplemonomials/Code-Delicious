@@ -1,6 +1,6 @@
 Title: Rich Veggie Potage Shoyu Ramen
 Date: 2024-11-26 12:14:00
-Category: Recipes
+Category: Main Dishes
 
 ![Veggie Potage Ramen Picture](images/Veggie Potage Ramen.jpg){: .image-process-article-image}
 

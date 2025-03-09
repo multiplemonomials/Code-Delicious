@@ -1,12 +1,11 @@
 Title: Restaurant-Style Eggplant Tofu
 Date: 2025-03-08 23:37:00
-Category: Recipes
+Category: Main Dishes
 
 Have you ever wondered how to make tofu the way it's served in Thai and Chinese restauraunts, with a golden skin on each piece? This recipe will teach you! I just had to put this together because I found one recipe for delicious fried tofu, and another for delicious sauteed eggplant in rice vinegar sauce, and I felt like they were a match made in heaven.
 
-## Modified From:
-_The Vegan Chinese Kitchen_ by Hannah Che, p. 149
-_Chloe Flavor_ by Chloe Coscarelli, p. 169
+## Inspired By:
+_The Vegan Chinese Kitchen_ by Hannah Che, p. 149, _Chloe Flavor_ by Chloe Coscarelli, p. 169
 
 ## Yield: 
 4 servings
@@ -25,7 +24,7 @@ _Chloe Flavor_ by Chloe Coscarelli, p. 169
 - 3 tbsp tamari (Japanese soy sauce)
 - 3 tbsp seasoned rice vinegar, e.g. [this kind](https://www.amazon.com/Marukan-Vinegar-Rice-Ssnd-Grmt/dp/B01H4LC276/ref=sr_1_5?crid=2CMLHNFWHY4QU&keywords=seasoned+rice+vinegar&qid=1678423756&s=grocery&sprefix=seasoned+rice+%2Cgrocery%2C154&sr=1-5). Regular rice vinegar will work but seasoned is preferred.
 - 3 tbsp maple syrup
-- 6 garlic cloves, diced (so less fine than minced)
+- 6 garlic cloves, minced
 - 1 tsp sriracha (add more as needed!)
 - 3/8 tsp crushed red pepper flakes
 - 1.5 tsp (0.5 tbsp) cornstarch

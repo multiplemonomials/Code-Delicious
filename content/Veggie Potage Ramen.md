@@ -2,7 +2,7 @@ Title: Rich Veggie Potage Shoyu Ramen
 Date: 2024-11-26 12:14:00
 Category: Main Dishes
 
-![Veggie Potage Ramen Picture](/images/Veggie Potage Ramen.jpg){: .image-process-article-image}
+![Veggie Potage Ramen Picture](images/Veggie Potage Ramen.jpg){: .image-process-article-image}
 
 Lots of people have had the standard ramen flavors, such as miso and shoyu broth.  But have you had veggie potage?  This is a novel type of ramen which has sweet potatoes and other veggies blended into the broth. Its flavor is unique, and contains both the savory taste of shoyu (soy sauce) and the creaminess of veggie stew. I find it to be a whole new perspective on ramen that brings in a fillingness that other types of ramen lack.
 

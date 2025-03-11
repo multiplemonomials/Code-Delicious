@@ -39,3 +39,7 @@ In PowerShell:
 ```ps
 pelican -r -l -e 'SITEURL=\"http://127.0.0.1:8000\"'
 ```
+
+## VS Code Usage
+
+Visual Studio Code is an easy way to edit files for this site. We recommend installing the 'Code Spell Checker' and 'Python' extensions. A run task has been provided which serves the site.

@@ -1,7 +1,7 @@
 AUTHOR = 'Jamie Smith'
 SITENAME = 'Code Delicious'
 TAGLINE = 'An Open-Source Plant Based Cookbook'
-SITEURL = "https://multiplemonomials.github.io/Code-Delicious"
+SITEURL = 'http://localhost:8000'
 
 PATH = "content"
 

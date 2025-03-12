@@ -5,7 +5,7 @@
             "label": "Build, Watch, and Serve Site",
             "type": "process",
             "command": "${workspaceFolder}\\venv\\Scripts\\python.exe",
-            "args": ["-m", "pelican", "-r", "-l"],
+            "args": ["-m", "pelican", "-r", "-l", "-e", "SITEURL=\"http://127.0.0.1:8000\""],
             "isBackground": true,
             "group": {
                 "kind": "build",

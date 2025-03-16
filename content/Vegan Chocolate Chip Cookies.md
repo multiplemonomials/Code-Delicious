@@ -41,8 +41,8 @@ Baking: ~30min per batch
 
 ## Procedure:
 1. Preheat the oven to 360°F
-2. Mix together flour, almond flour, salt, and baking soda in a medium mixing bowl.
-3. Beat shortening, butter, white and brown sugar, and vanilla in the mixer until creamy, about 3-5 mins on medium-high speed.
+2. Beat shortening, butter, white and brown sugar, and vanilla in the mixer until creamy, about 3-5 mins on medium-high speed.
+3. Meanwhile, mix together flour, almond flour, salt, and baking soda in a seperate medium mixing bowl.
 4. Combine egg replacer and water together in a small bowl, then mix thoroughly with a fork. Add egg replacer mixture gradually to the mixing bowl while beating at medium speed. Next, beat on medium for another ~2 mins.
 5. Gradually beat in flour mixture at the slowest possible speed.
 6. Pour in chocolate chips and mix on low until combined.

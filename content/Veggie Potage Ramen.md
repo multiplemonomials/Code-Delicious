@@ -8,7 +8,7 @@ Lots of people have had the standard ramen flavors, such as miso and shoyu broth
 
 While veggie potage is well known in Japan, it seems virtually unknown internationally.  To my knowledge, this is the first publicly available English recipe for it, which I hand-translated myself after having storebought veggie potage and falling in love with it.
 
-Original source: [https://cookpad.com/recipe/2130722](https://cookpad.com/recipe/2130722) (in Japanese) by susu58
+Original source: [https://cookpad.com/recipe/2130722](https://cookpad.com/recipe/2130722) (in Japanese) by susu58.
 
 
 ## Yield: 

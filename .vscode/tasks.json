@@ -2,9 +2,44 @@
 	"version": "2.0.0",
 	"tasks": [
         {
-            "label": "Build, Watch, and Serve Site",
+            "label": "Build, Watch, and Serve Site (Windows)",
             "type": "process",
             "command": "${workspaceFolder}\\venv\\Scripts\\python.exe",
+            "args": ["-m", "pelican", "-r", "-l", "-e", "SITEURL=\"http://127.0.0.1:8000\""],
+            "isBackground": true,
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared",
+                "showReuseMessage": false
+            },
+			"problemMatcher": [
+				{
+                    "source": "pelican",
+                    "fileLocation": "absolute",
+					"pattern": [
+						{
+                            "kind": "file",
+							"regexp": "Skipping (.+): (.+)",
+							"file": 1,
+							"message": 2
+						}
+					],
+					"background": {
+						"activeOnStart": true,
+						"beginsPattern": "re-generating...",
+						"endsPattern": "Done: Processed [0-9]+ articles",
+					}
+				}
+			],
+        },
+        {
+            "label": "Build, Watch, and Serve Site (Linux/Mac)",
+            "type": "process",
+            "command": "${workspaceFolder}/venv/bin/python3",
             "args": ["-m", "pelican", "-r", "-l", "-e", "SITEURL=\"http://127.0.0.1:8000\""],
             "isBackground": true,
             "group": {

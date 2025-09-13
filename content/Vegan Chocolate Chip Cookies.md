@@ -2,6 +2,8 @@ Title: Vegan Chocolate Chip Cookies
 Date: 2025-03-09
 Category: Desserts
 
+![Chocolate Chip Cookies Picture](images/Chocolate Chip Cookies.jpg){: .image-process-article-image}
+
 This is actually one of the first recipes that got me (Jamie) into cooking! I started making it for club events in college, and people loved it! I experimented a lot with tweaks to get the best consistency, and eventually landed on this recipe here.
 
 Believe it or not, the original source for this recipe is actually the standard Toll House chocolate chip cookie recipe -- you know, the one that comes with the chocolate chips! Even if that actual brand of chocolate is awful, I'll admit that their recipe was a good starting place. Of course, we've made quite a lot of changes since then!
@@ -14,17 +16,17 @@ Also, to be strictly vegan, you will need to use vegan dark chocolate.  I've had
 ~40 cookies (2 sheets)
 
 ## Ingredients
-- 281 g all-purpose flour
-- 20 g almond flour (helps with crispiness though you can omit in a pinch)
-- 1 tsp baking soda
-- 1 tsp salt
 - 88 g vegetable shortening
 - 88 g fake butter (e.g. Earth Balance)
-- 160 g granulated sugar
+- 160 g white (granulated) sugar
 - 165 g brown sugar (light brown preferred)
 - 2 tsp vanilla extract
 - 1 tbsp egg replacer (e.g. [Bob's Red Mill](https://www.amazon.com/Bobs-Red-Mill-Gluten-Replacer/dp/B01LZZUP98?th=1) brand)
 - 1/4 cup water
+- 281 g all-purpose flour
+- 20 g almond flour (helps with crispiness though you can omit in a pinch)
+- 1 tsp salt
+- 1 tsp baking soda
 - ~250 g (about 2 cups or one standard bag) 60% dark chocolate chips (see note above)
 
 ## Tools:
@@ -42,15 +44,16 @@ Baking: ~30min per batch
 ## Procedure:
 1. Preheat the oven to 360°F
 2. Beat shortening, butter, white and brown sugar, and vanilla in the mixer until creamy, about 3-5 mins on medium-high speed.
-3. Meanwhile, mix together flour, almond flour, salt, and baking soda in a seperate medium mixing bowl.
-4. Combine egg replacer and water together in a small bowl, then mix thoroughly with a fork. Add egg replacer mixture gradually to the mixing bowl while beating at medium speed. Next, beat on medium for another ~2 mins.
-5. Gradually beat in flour mixture at the slowest possible speed.
-6. Pour in chocolate chips and mix on low until combined.
-7. Prepare a baking sheet with a silicone mat, then a sheet of parchment paper on top of it.  The silicone keeps the bottoms of the cookies from being burned by the sheet, and the parchment paper provides makes for easy cleanup and also provides extra insulation.
-8. Spoon cookies onto the pan with the dough scoop.  I usually do smaller cookies in a 4x5 grid, but you can also make them bigger and space them further apart.
-9. Bake for 11-13 minutes, or until all of each cookie has turned golden.  If you want, you can prepare the next baking sheet during this time.
-10. Remove sheet from the oven (will be extremely soft) and allow cookies to cool and finish cooking on the sheet for an additional ~5 minutes.
-11. Transfer cookies to a plate/container, and repeat until all cookies are baked!
+3. Meanwhile, Combine egg replacer and water together in a small bowl, then mix thoroughly with a fork. 
+4. Once the butter and sugar are creamed, add the egg replacer mixture gradually to the mixing bowl while beating at medium speed. Then, beat on medium for another ~2 mins.
+5. Meanwhile, mix together flour, almond flour, salt, and baking soda in a seperate medium mixing bowl.
+6. Gradually beat in flour mixture at the slowest possible speed.
+7. Pour in chocolate chips and mix on low until combined.
+8. Prepare a baking sheet with a silicone mat, then a sheet of parchment paper on top of it.  The silicone keeps the bottoms of the cookies from being burned by the sheet, and the parchment paper provides makes for easy cleanup and also provides extra insulation.
+9. Spoon cookies onto the pan with the dough scoop.  I usually do smaller cookies in a 4x5 grid, but you can also make them bigger and space them further apart.
+10. Bake for 11-13 minutes, or until all of each cookie has turned golden.  If you want, you can prepare the next baking sheet during this time.
+11. Remove sheet from the oven (the cookies will still be puffy and very soft) and allow cookies to cool and finish cooking on the sheet for an additional ~5 minutes.
+12. Transfer cookies to a plate/container and repeat until all cookies are baked!
 
 Note 1: It might be a good idea to do a test sheet with only 3 or 6 cookies on it first, to make sure you have the mix right and that your cooking time is correct.  This way, you won't lose a good chunk of the recipe if you cook them for too long or something.
 

@@ -1,23 +1,56 @@
-name: Deploy Pages to Pelican
-
+name: Deploy Site to Github Pages via Pelican
 on:
   # Trigger the workflow on push or merged pull request,
   # but only for the master branch
   push:
     branches:
       - master
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  build:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-    - uses: nelsonjchen/gh-pages-pelican-action@0.2.0
-      env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        GH_PAGES_BRANCH: gh-pages
+    - uses: actions/checkout@v5
+    - uses: actions/setup-python@v6
+      with:
+        python-version: '3.13' 
+    
+    - name: Install Pelican
+      run: |
+        pip install -r requirements.txt
+
+    - name: Generate Site
+      run: |
+        pelican -o output -s publishconf.py
+
+    - name: Setup Pages
+      uses: actions/configure-pages@v5
+
+    - name: Upload Outputs
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: output
+
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4

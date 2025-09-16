@@ -23,7 +23,7 @@ source venv/bin/activate # on Windows with Powershell, run 'venv\Scripts\Activat
 pip install -r requirements.txt
 ```
 
-## Building the Site Locally
+## Building and Serving the Site Locally
 
 In Bash:
 ```shell

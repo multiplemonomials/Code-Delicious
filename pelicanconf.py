@@ -9,6 +9,9 @@ TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = 'en'
 
+# Logo in the theme header
+USER_LOGO_URL = "/images/site_logo.png"
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -16,19 +19,12 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-# LINKS = (
-#     ("Pelican", "https://getpelican.com/"),
-#     ("Python.org", "https://www.python.org/"),
-#     ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-#     ("You can modify those links in your config file", "#"),
-# )
+# Favicon configuration -- see here: https://simulatine.github.io/100DaysOfCode/day-5-configuring-pelican.html
+STATIC_PATHS = ['extras']
+EXTRA_PATH_METADATA = {
+    "extras/favicon.ico": {"path": "favicon.ico"}
+}
 
-# Social widget
-# SOCIAL = (
-#     ("You can add links in your config file", "#"),
-#     ("Another social link", "#"),
-# )
 
 DEFAULT_PAGINATION = False
 

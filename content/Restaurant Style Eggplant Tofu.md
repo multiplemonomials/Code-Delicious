@@ -47,5 +47,5 @@ _The Vegan Chinese Kitchen_ by Hannah Che, p. 149, _Chloe Flavor_ by Chloe Cosca
 7. In a small bowl, stir together the sauce ingredients and set aside.
 8. In the wok or skillet, heat just 2 tbsp vegetable oil over medium-high heat.  When it shimmers, add the eggplant and half the green onions.
 9. Cook, stirring every 2 minutes (use a timer!).  Don't worry if it looks like there isn't any oil left in the pan, that's just what eggplant does -- you don't need to add more oil.  Keep cooking until the eggplant is nicely browned (about 10 minutes).
-10. Add the sauce, half the green onions, and the tofu to the pan.  Reduce the heat to medium, cover, and cook for 10-15 minutes, until the eggplant is soft and the sauce is thick.  The steaming sauce will change the texture of the tofu, changing the crunchy exterior into a tasty skin.
+10. Add the sauce and the tofu to the pan.  Reduce the heat to medium, cover, and cook for 10-15 minutes, until the eggplant is soft and the sauce is thick.  The steaming sauce will change the texture of the tofu, changing the crunchy exterior into a tasty skin.
 11. Serve! Plate into bowls along with the rice, and top with sesame seeds and the remaining green onions.

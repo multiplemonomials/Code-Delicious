@@ -20,7 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Favicon configuration -- see here: https://simulatine.github.io/100DaysOfCode/day-5-configuring-pelican.html
-STATIC_PATHS = ['extras']
+STATIC_PATHS = ['extras', 'images']
 EXTRA_PATH_METADATA = {
     "extras/favicon.ico": {"path": "favicon.ico"}
 }

@@ -1,6 +1,7 @@
 Title: Ginger Sesame Glazed Chunks
 Date: 2025-09-15
 Category: Main Dishes
+Tags: stir-fry, gluten-free-option, nut-free
 
 ![Ginger Sesame Glazed Chunks Picture](images/Ginger Sesame Glazed Chunks.jpg){: .image-process-article-image}
 
@@ -64,6 +65,10 @@ Whichever fake meat "chunk" you use, cut it into strips, approx. 1cm x 1cm x 3cm
 
 - 1.5 tbsp toasted sesame seeds
 - Additional soy sauce or sesame oil, to taste
+
+## Modifications:
+
+Most types of soy sauce other than tamari contain gluten, so to make this recipe gluten-free, instead of the chinese light and dark soy sauce, use 2.5 tbsp tamari and 1.5 tsp molasses. Also, use soy chunks or another type of fake chicken that does not contain gluten. 
 
 ## Directions:
 

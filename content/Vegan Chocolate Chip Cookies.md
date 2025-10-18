@@ -1,6 +1,7 @@
 Title: Vegan Chocolate Chip Cookies
 Date: 2025-03-09
 Category: Desserts
+Tags: cookie, nut-free-option
 
 ![Chocolate Chip Cookies Picture](images/Chocolate Chip Cookies.jpg){: .image-process-article-image}
 
@@ -24,10 +25,10 @@ Also, to be strictly vegan, you will need to use vegan dark chocolate.  I've had
 - 1 tbsp egg replacer (e.g. [Bob's Red Mill](https://www.amazon.com/Bobs-Red-Mill-Gluten-Replacer/dp/B01LZZUP98?th=1) brand)
 - 1/4 cup water
 - 281 g all-purpose flour
-- 20 g almond flour (helps with crispiness though you can omit in a pinch)
+- 20 g almond flour (helps with crispiness, but for a nut-free option, sub with regular flour)
 - 1 tsp salt
 - 1 tsp baking soda
-- ~250 g (about 2 cups or one standard bag) 60% dark chocolate chips (see note above)
+- ~250 g (about 2 cups or one bag) 60% dark chocolate chips (see note above)
 
 ## Tools:
 - Stand mixer

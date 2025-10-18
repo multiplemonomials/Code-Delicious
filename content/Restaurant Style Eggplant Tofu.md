@@ -1,6 +1,7 @@
 Title: Restaurant-Style Eggplant Tofu
 Date: 2025-03-08 23:37:00
 Category: Main Dishes
+tags: stir-fry, gluten-free, nut-free
 
 Have you ever wondered how to make tofu the way it's served in Thai and Chinese restauraunts, with a golden skin on each piece? This recipe will teach you! I just had to put this together because I found one recipe for delicious fried tofu, and another for delicious sauteed eggplant in rice vinegar sauce, and I felt like they were a match made in heaven.
 
@@ -14,7 +15,7 @@ _The Vegan Chinese Kitchen_ by Hannah Che, p. 149, _Chloe Flavor_ by Chloe Cosca
 
 **Tofu:**
 
-- 1 block firm tofu, cut into ~2" x ~2" x 1/2" rectangular prisms.  Firm preferred but extra-firm will also work.
+- 1 block firm tofu, cut into ~2" x ~2" x 3/4" rectangular prisms.  Firm preferred but extra-firm will also work.
 - Neutral oil of any kinda for frying, at least 1/2 cup
 - 3 tsp salt
 

@@ -1,6 +1,7 @@
 Title: Rich Veggie Potage Shoyu Ramen
 Date: 2024-11-26 12:14:00
 Category: Main Dishes
+Tags: gluten-free, nut-free
 
 ![Veggie Potage Ramen Picture](images/Veggie Potage Ramen.jpg){: .image-process-article-image}
 
@@ -37,6 +38,9 @@ Original source: [https://cookpad.com/recipe/2130722](https://cookpad.com/recipe
 - baked tofu or fake meat of choice
 - shredded or chopped green onions (2-4)
 - sliced tomatoes (2 roma tomatoes)
+
+## Modifications
+To make this recipe gluten-free, use tamari instead of the chinese light soy sauce, and choose gluten-free noodles (e.g. rice noodles). Also be sure to verify that your fake chicken boullion of choice is gluten-free as I am told not all of them are.
 
 ## Directions:
 

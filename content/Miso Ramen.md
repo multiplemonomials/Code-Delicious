@@ -1,6 +1,7 @@
 Title: Miso Ramen
 Date: 2025-03-26 5:39:00
 Category: Main Dishes
+Tags: soup, nut-free, gluten-free-option
 
 I got hooked on miso ramen when my local Daiso started carrying vegan instant ramen kits, then suddenly _stopped_ carrying them, leaving me high and dry without my ramen fix. I started searching for another recipe that could compare to the salty deliciousness of the packaged kits, and, after some trial and error, settled on this one.
 
@@ -32,6 +33,9 @@ Original Source: [https://cookpad.com/recipe/7501930](https://cookpad.com/recipe
 - 1 tsp [doubanjiang paste](https://www.amazon.com/Natural-Plus-Green-Doubangjiang-Ingredient/dp/B08TVHRTDP/ref=sr_1_4?keywords=Doubanjiang&qid=1683396318&sr=8-4) (optional, gives a moderate spice level)
 
 *To make it interesting, you can use a 50/50 mix of Chinese soy sauce (Pearl River Bridge or Lee Kum Kee) and Japanese (Kikkoman), though using exclusively Japanese soy sauce should work fine.
+
+## Modifications
+To make this recipe gluten-free, use only tamari for the soy sauce, and choose gluten-free noodles (e.g. rice noodles). Also be sure to verify that your fake chicken broth of choice is gluten-free as I am told not all of them are.
 
 ## Directions:
 

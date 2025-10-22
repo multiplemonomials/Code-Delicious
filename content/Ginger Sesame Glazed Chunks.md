@@ -29,14 +29,15 @@ You have several options here, including:
     - There are a variety of options for this, both homemade and storebought. I tend to use [this recipe](https://fullofplants.com/the-best-vegan-chickn/), for which a single batch is just enough for this dish.
     - If you do go with storebought, make sure to get something unseasoned, so its flavors don't conflict with the seasoning in this recipe. I love Tofurkey's chicken strips but they will not work here.
 - 2 blocks (28 oz) extra-firm tofu, pressed
+    - If you want these to have more of a skin, you can optionally use the frying procedure described under [Restaurant Style Eggplant Tofu](Restaurant%20Style%20Eggplant%20Tofu.md) instead of the pan frying steps in this recipe
 - 3 blocks (24 oz) tempeh
 
 Whichever fake meat "chunk" you use, cut it into strips, approx. 1cm x 1cm x 3cm or 1/3" x 1/3" x 1".
 
 **Pan-Fried Chunks:**
 
-- 1.5 tbsp cornstarch
-- 1.5 tsp salt
+- 1 tbsp cornstarch
+- 0.75 tsp salt
 - Neutral cooking oil for pan-frying, around 2-3 tbsp
 
 **Stir Fry:**

@@ -36,7 +36,7 @@ Whichever fake meat "chunk" you use, cut it into strips, approx. 1cm x 1cm x 3cm
 
 **Pan-Fried Chunks:**
 
-- 1 tbsp cornstarch
+- 1.5 tbsp cornstarch
 - 0.75 tsp salt
 - Neutral cooking oil for pan-frying, around 2-3 tbsp
 

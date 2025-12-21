@@ -21,7 +21,14 @@ img {
 }
 img.image-process-article-image {
   border: 2px solid darkgray;
-  object-fit: contain;
+
+  /*
+   * Mobile browsers seem to not obey the page CSS and insist on scaling images to be ~square, rather than shrinking their height as intended.
+   * I cannot reproduce this on desktop, even when using simulated mobile device mode.
+   * Same issue as here: https://stackoverflow.com/questions/66621132/image-has-correct-aspect-ratio-on-desktop-browsers-but-wrong-aspect-ratio-on-mob
+   * This doesn't entirely fix the issue, but it does make it way less noticeable by cropping the image instead of squeezing the aspect ratio.
+   */
+  object-fit: cover;
 }
 
 table {

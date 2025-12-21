@@ -22,17 +22,17 @@ Original Source: [https://cookpad.com/recipe/7501930](https://cookpad.com/recipe
 **Broth:**
 
 - 1 tbsp minced garlic (~3 medium cloves)
-- 2 tbsp soy sauce (shoyu)*
+- 3 tbsp white or red (preferred) miso
+    - I prefer red miso for this recipe if available because it has a more consistent strong and rich flavor. With white miso, some brands are less strong, so you will need to taste and add another tbsp or so if necessary.
+- 2 tbsp soy sauce (shoyu)
+    - To make it interesting, you can use a 50/50 mix of Chinese soy sauce (Pearl River Bridge or Lee Kum Kee) and Japanese (Kikkoman), though using exclusively Japanese soy sauce should work fine.
 - 2 tsp mirin
 - 2 tsp sesame seeds (preferably toasted)
 - 0.5 tsp toasted sesame oil
-- 3 tbsp red miso or 4 tbsp white miso
-- 1.5 tsp (1/2 tbsp) [fake chicken bouillon](https://www.amazon.com/Better-Than-Bouillon-Chicken-Certified/dp/B000N7YKQK)
 - 750 mL (3.25 cups) water
+- 1.5 tsp (1/2 tbsp) [fake chicken bouillon](https://www.amazon.com/Better-Than-Bouillon-Chicken-Certified/dp/B000N7YKQK)
 - 1 tsp fake butter (e.g. Earth Balance) [this replaces beef tallow in the original recipe]
 - 1 tsp [doubanjiang paste](https://www.amazon.com/Natural-Plus-Green-Doubangjiang-Ingredient/dp/B08TVHRTDP/ref=sr_1_4?keywords=Doubanjiang&qid=1683396318&sr=8-4) (optional, gives a moderate spice level)
-
-*To make it interesting, you can use a 50/50 mix of Chinese soy sauce (Pearl River Bridge or Lee Kum Kee) and Japanese (Kikkoman), though using exclusively Japanese soy sauce should work fine.
 
 ## Modifications
 To make this recipe gluten-free, use only tamari for the soy sauce, and choose gluten-free noodles (e.g. rice noodles). Also be sure to verify that your fake chicken broth of choice is gluten-free as I am told not all of them are.
@@ -40,7 +40,7 @@ To make this recipe gluten-free, use only tamari for the soy sauce, and choose g
 ## Directions:
 
 1. First, we will make the broth. Preheat a pot over medium heat.
-2. Meanwhile, in a small bowl, mix together the minced garlic, miso, soy sauce, mirin, sesame seeds, and sesame oil with a fork until combined. It should resemble peanut butter, and be evenly combined.
+2. Meanwhile, in a small bowl, mix together the minced garlic, miso, soy sauce, mirin, sesame seeds, and sesame oil with a fork until combined. It should resemble peanut butter.
 3. Once the pot is warmed, add the miso mixture. Fry for several minutes, until the mixture is bubbly and you can smell its flavor being released. Stir the mixture constantly using a spatula so it doesn't burn.
 
 ![Picture of frying the miso mixture](https://img.cpcdn.com/steps/35646832/m/b51bb7202f62d39c82b43a426a15e278?u=46684425&p=16the81200103)

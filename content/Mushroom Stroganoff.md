@@ -3,7 +3,7 @@ Date: 2025-05-13 12:06:00
 Category: Main Dishes
 Tags: pasta, gluten-free-option
 
-I always think that the name sounds like some famous composer, but this recipe is actually one of the creamiest pasta dishes I've had, with a savory sauce flavored with mushrooms, thyme, and wine folded into every curl of pasta. To make it even more filling and crunchy, we serve it with broiled sesame tofu. I've tried a couple different stroganoff recipes and this remains my favorite.
+I always think that the name sounds like some famous composer, but this recipe is actually one of the creamiest pasta dishes I've had, with a savory sauce flavored with mushrooms, thyme, and wine folded into every curl of pasta. To make it even more filling and crunchy, we serve it with broiled sesame tofu. I've tried a couple different stroganoff recipes and this remains my favorite (even compared to the one in Isa's more recent cookbook!).
 
 ## Based On:
 Isa Does It p. 130

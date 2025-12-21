@@ -21,6 +21,7 @@ img {
 }
 img.image-process-article-image {
   border: 2px solid darkgray;
+  object-fit: contain;
 }
 
 table {

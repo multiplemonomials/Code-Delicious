@@ -3,7 +3,7 @@ Date: 2025-10-18
 Category: Desserts
 Tags: cookie, nut-free
 
-My family has been making these molasses cookies for years, using a photocopied page from an old issue of _Cook's Illustrated_. After a bit of trial and error, I figured out a fairly simple way to make them vegan. These cookies absolutely put the "spice" in "molasses spice", and use a blend of five different spices to create a complex counterpart to the dark molasses flavor.
+My family has been making these molasses cookies for years, using a photocopied page from an old issue of _Cook's Illustrated_. After a bit of trial and error, I figured out a fairly simple way to make them vegan. These cookies absolutely put the "spice" in "molasses spice" by using a blend of five different spices to create a complex counterpart to the dark molasses flavor.
 
 ## Modified From:
 - Cook's Illustrated, 2002 Vol. 1, p.77

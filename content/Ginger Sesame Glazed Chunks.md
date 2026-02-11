@@ -45,7 +45,7 @@ Whichever fake meat "chunk" you use, cut it into strips, approx. 1cm x 1cm x 3cm
 - 1 head broccoli, chopped (with stem as long as you like the stem)
 - Neutral cooking oil, around 1 tbsp
 - 5 garlic cloves, minced
-- 2 tsp ginger, minced
+- 1 tbsp ginger, minced
     - Pro tip: you can store remaining ginger in the freezer, then re-microwave it next time you need it, and it doesn't lose its flavor!
 
 **Sauce:**

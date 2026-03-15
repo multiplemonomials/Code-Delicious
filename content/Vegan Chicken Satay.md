@@ -21,30 +21,28 @@ If making homemade vegan chicken, it will take an evening, and then 45 min the n
 
 ## Yield
 
-About 4-5 skewers. 3-4 skewers is a full meal for 1 person, and 1 per person is appropriate for an appetizer.
+About 9-10 skewers. 3-4 skewers is a full meal for 1 person, and 1 per person is appropriate for an appetizer.
 
 ## Ingredients
 
 ### Chicken
 
-- 24 oz neutral vegan chicken
-    - I like to use [The Best Vegan Chick'n](https://fullofplants.com/the-best-vegan-chickn/), of which this uses exactly one batch. I love this recipe because it rips and chars very beautifully!
+- 48 oz neutral vegan chicken
+    - I like to use [The Best Vegan Chick'n](https://fullofplants.com/the-best-vegan-chickn/), of which this uses exactly a double batch. I love this recipe because it rips and chars very beautifully!
     - There are likely other storebought options, but make sure to use something unflavored! I love Tofurkey chicken strips but they are not appropriate here.
-- 5 skewer sticks. You can buy these at many grocery stores, or you cam improvise with wood or metal chopsticks (like I did)
+- 10 skewer sticks. You can buy these at many grocery stores, or you cam improvise with wood or metal chopsticks (like I did)
 - A few tbsp neutral oil, for frying
 
 ### Marinade
 
-- 200ml (6.8oz / 1 small box) [coconut cream](https://www.amazon.com/Kara-Coconut-Cream-6-80-Units/dp/B00MH7UY5K?th=1)
-- 0.5 cup water
-- 1 tbsp curry powder
-- 1 tbsp white sugar
-- 2 tsp red curry paste
-- 1 tsp table salt
+- 400ml (14oz / 2 small boxes) [coconut cream](https://www.amazon.com/Kara-Coconut-Cream-6-80-Units/dp/B00MH7UY5K?th=1)
+- 1 cup water
+- 2 tbsp curry powder
+- 2 tbsp white sugar
+- 4 tsp red curry paste
+- 2 tsp table salt
 
 ### Cucumber Sauce
-
-Note: This cucumber sauce recipe makes more than you really need for one batch of skewers, it's just not really practical to divide it down further.
 
 - 0.25 cup rice vinegar
 - 0.25 cup white sugar

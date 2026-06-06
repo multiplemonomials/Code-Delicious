@@ -50,7 +50,7 @@ About 3-4 full meals, or about 8-10 small bowls if serving as an appetizer
 ### Final Ingredients:
 - 6 tbsp lime juice (~2-3 medium limes)
 - 1 tsp salt (you may want to add up to an additional 0.5 tsp, to taste)
-- 2 tbsp white sugar (may add another tbsp or so to taste)
+- 1 tbsp white sugar (may add another tbsp or so to taste)
 - Chopped cilantro for topping, about 1/2 cup loosely packed
 
 ## Directions:

@@ -30,13 +30,13 @@ About 1h 45min total, about 30-45 min active time
 * 1/3 cup minced onion (1/4 large onion or 1/2 small onion, this doesn't need to be exact)
 * 2 tsp lemon juice (~1/4 lemon)
 * 1.5 tsp salt
-* 1 tsp sugar (15 cal)
+* 1 tsp sugar
 * 1/4 tsp dried parsley or 1 tsp loosely packed fresh parsley
 * 1/4 tsp white pepper
 * Just a pinch of dried thyme
 ### Veggies:
-* 1 cup diced carrots (2-3 medium carrots) (60 cal)
-* 1/4 cup diced celery (about 1 small stalk) (4 cal)
+* 1 cup diced carrots (2-3 medium carrots)
+* 1/4 cup diced celery (about 1 small stalk)
 * Fresh ground black pepper, ~15 grinds / 1/4 teaspoon
 
 ## Directions:
@@ -47,5 +47,4 @@ About 1h 45min total, about 30-45 min active time
 5. Once the barley is done, drain it into a colander and add it to the pot as well.
 6. Simmer, stirring occasionally, for 15-30 min, until the carrots are tender.
 7. Remove from heat and let the soup rest a bit (if you can resist!)
-
-Enjoy! Top with some more ground pepper and/or some minced parsley
+8. Enjoy! Top with some more ground pepper and/or some minced parsley if you like.
